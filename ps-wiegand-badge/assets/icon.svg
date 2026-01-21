@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Wiegand badge icon">
+    <defs>
+        <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1e3a8a"/>
+            <stop offset="100%" stop-color="#0ea5e9"/>
+        </linearGradient>
+    </defs>
+    <rect x="12" y="16" width="104" height="96" rx="12" fill="url(#g)" stroke="#0b132b" stroke-width="3"/>
+    <rect x="24" y="32" width="72" height="12" rx="4" fill="#e0f2fe" opacity="0.95"/>
+    <rect x="24" y="52" width="80" height="8" rx="4" fill="#bae6fd" opacity="0.9"/>
+    <rect x="24" y="68" width="80" height="8" rx="4" fill="#bae6fd" opacity="0.9"/>
+    <rect x="24" y="84" width="80" height="8" rx="4" fill="#bae6fd" opacity="0.9"/>
+    <circle cx="100" cy="38" r="4" fill="#0ea5e9" stroke="#0b132b" stroke-width="2"/>
+    <path d="M44 104h40" stroke="#e0f2fe" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+    <path d="M88 20c0-6-5-10-10-10H50c-5 0-10 4-10 10" fill="none" stroke="#0b132b" stroke-width="3" stroke-linecap="round"/>
+</svg>

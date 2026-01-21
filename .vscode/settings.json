@@ -1,0 +1,60 @@
+{
+    "cSpell.words": [
+        "cvbv",
+        "ps",
+        "ps-wiegand-badge",
+        "RFID",
+        "Valu",
+        "ValuProx",
+        "wiegand",
+        "Wiegand"
+    ],
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[github-actions-workflow]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.formatOnSave": true,
+        "files.trimTrailingWhitespace": true
+    },
+    "[powershell]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-vscode.powershell"
+    },
+    "powershell.codeFormatting.autoCorrectAliases": false,
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "powershell.codeFormatting.preset": "OTBS",
+    "powershell.codeFormatting.newLineAfterOpenBrace": true,
+    "powershell.codeFormatting.newLineAfterCloseBrace": true,
+    "powershell.codeFormatting.whitespaceAroundOperator": true,
+    "powershell.codeFormatting.ignoreOneLineBlock": true,
+    "powershell.codeFormatting.pipelineIndentationStyle": "NoIndentation",
+    "powershell.codeFormatting.openBraceOnSameLine": true,
+    "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.integratedConsole.showOnStartup": false,
+    "[json]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.formatOnSave": false
+    },
+    "[csv]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[plaintext]": {
+        "files.trimTrailingWhitespace": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnSave": true
+}
