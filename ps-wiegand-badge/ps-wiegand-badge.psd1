@@ -95,7 +95,6 @@
         'Private/ConvertTo-FacilityNumber.ps1'
         'Private/Get-OnesCount.ps1'
         'assets/icon.svg'
-        'README.md'
     )
 
     # Private data to pass to the module specified in RootModule/ModuleToProcess. This may also contain a PSData hashtable with additional module metadata used by PowerShell.
